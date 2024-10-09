@@ -1,3 +1,3 @@
  # git_github
  <br>
-Auther - Jayanti Patil.
+Auther - Jayanti Patil [Student].
